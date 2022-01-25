@@ -55,7 +55,6 @@
 		0780879E279C618A00B1DEB7 = {
 			isa = PBXGroup;
 			children = (
-				07F4EE8F27A08125003F94D3 /* CustomDivider.swift */,
 				078087A9279C618A00B1DEB7 /* Moonshot */,
 				078087A8279C618A00B1DEB7 /* Products */,
 			);
@@ -74,6 +73,7 @@
 			children = (
 				078087B9279C61FA00B1DEB7 /* astronauts.json */,
 				078087B8279C61FA00B1DEB7 /* missions.json */,
+				07F4EE8F27A08125003F94D3 /* CustomDivider.swift */,
 				078087AA279C618A00B1DEB7 /* MoonshotApp.swift */,
 				07F4EE8D279F07B3003F94D3 /* AstronautView.swift */,
 				078087BC279C621900B1DEB7 /* Astronaut.swift */,
